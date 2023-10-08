@@ -1,0 +1,90 @@
+pre{
+    color:rgb(97, 86, 103);
+}
+h1{
+    color:purple;
+    text-align: center;
+    font-family: 'Times New Roman', Times, serif;
+}
+body{
+    background-color:rgb(194, 194, 224);
+}
+a{
+    text-decoration: none;
+    color: rgb(99, 60, 107);
+    margin-right: 200px;
+}
+
+#heading {
+    background-color: rgb(44, 32, 56);
+    height: 30px;
+    width: 1650px;
+    border: 4px solid white;
+}
+
+#st {
+    color: beige;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-size: 20px;
+    margin-right: 200px;
+}
+#nd {
+    color: beige;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-size: 20px;
+    margin-right: 200px;
+}
+#rd {
+    color: beige;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-size: 20px;
+    margin-right: 200px;
+}
+#th {
+    color: beige;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-size: 20px;
+    margin-right: 200px;
+}
+#ls {
+    color: beige;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-size: 20px;
+}
+pre{
+    font-size: 15px;
+}
+footer {
+    font-size: 30px;
+    text-align: center;
+}
+
+#regis {
+    text-align: center;
+    height: 550px;
+    width: 1500px;
+    background-color: rgb(255, 211, 231);
+}
+#quali{
+    height: 35px;
+    width: 350px;
+    background-color: rgb(205, 223, 227);
+    font-size: 18px;
+    text-align: center;
+}
+#edu {
+    height: 200px;
+    width: 400px;
+    background-color: rgb(205, 223, 227);
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    padding: 10px 10px 10px 10px;
+}
+#img{
+    margin-left: 29px;
+    border: 2px solid rgb(44, 32, 56);
+    border-radius: 10%;
+}
+footer{
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    font-size: 20px;
+}
